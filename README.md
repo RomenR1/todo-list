@@ -2,6 +2,9 @@
 
 This is a simple JavaScript todo list application that allows you to add, edit, delete, and search todos. It uses the localStorage object to store todos locally in the browser.
 
+## Live view
+[Click Heare](https://codepen.io/romenrakholiya/pen/mdQBwoY])
+
 ## Features
 
 - Add a new todo by entering text in the input field and clicking the "Add" button.
@@ -48,6 +51,6 @@ Feel free to use and modify the code according to your needs. Contributions are 
 
 ## Credits
 
-This todo list application was created by [RomenR1]. You can find the original source code and more projects on [GitHub([https://github.com/RomenR1/todo-list]).
+This todo list application was created by [RomenR1]. You can find the original source code and more projects on [GitHub([(https://github.com/RomenR1)]).
 
 If you have any questions or suggestions, please feel free to reach out to me at [romenrakholiya34@gmail.com].
