@@ -45,12 +45,10 @@ The todo list application does not have any external dependencies. It is built u
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 Feel free to use and modify the code according to your needs. Contributions are welcome!
 
 ## Credits
 
-This todo list application was created by [RomenR1]. You can find the original source code and more projects on [GitHub([(https://github.com/RomenR1)]).
+This todo list application was created by [RomenR1]. You can find the original source code and more projects on [GitHub](https://github.com/RomenR1).
 
 If you have any questions or suggestions, please feel free to reach out to me at [romenrakholiya34@gmail.com].
