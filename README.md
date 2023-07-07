@@ -48,6 +48,6 @@ Feel free to use and modify the code according to your needs. Contributions are 
 
 ## Credits
 
-This todo list application was created by [RomenR1]. You can find the original source code and more projects on [GitHub]([https://github.com/RomenR1/todo-list]).
+This todo list application was created by [RomenR1]. You can find the original source code and more projects on [GitHub([https://github.com/RomenR1/todo-list]).
 
 If you have any questions or suggestions, please feel free to reach out to me at [romenrakholiya34@gmail.com].
