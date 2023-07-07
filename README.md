@@ -3,7 +3,7 @@
 This is a simple JavaScript todo list application that allows you to add, edit, delete, and search todos. It uses the localStorage object to store todos locally in the browser.
 
 ## Live view
-[Click Heare](https://codepen.io/romenrakholiya/pen/mdQBwoY])
+[Click Heare](https://codepen.io/romenrakholiya/pen/zYMEdoL)
 
 ## Features
 
